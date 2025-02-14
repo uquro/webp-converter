@@ -8,6 +8,8 @@ require __DIR__ . '/vendor/autoload.php';
 // Load translations
 $translations = require 'lang/tr.php';
 
+// test;
+
 // Dosya adlarını tanımlayalım.
 $logFile    = 'conversion_errors.log';
 $statusFile = 'conversion_status.json';
