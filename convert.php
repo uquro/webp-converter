@@ -6,7 +6,7 @@ use Intervention\Image\ImageManagerStatic as Image;
 require __DIR__ . '/vendor/autoload.php';
 
 // Load translations
-$translations = require 'tr.php';
+$translations = require 'lang/tr.php';
 
 // Dosya adlarını tanımlayalım.
 $logFile    = 'conversion_errors.log';
