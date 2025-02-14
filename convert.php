@@ -3,7 +3,7 @@
 use Intervention\Image\ImageManagerStatic as Image;
 
 // Autoload dosyasını dahil ediyoruz.
-require dirname(__DIR__) . '/vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 // Load translations
 $translations = require 'tr.php';
