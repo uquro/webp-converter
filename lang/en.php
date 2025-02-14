@@ -1,0 +1,21 @@
+<?php
+return [
+    'reset_success'         => 'Status reset.',
+    'conversion_started'    => 'Conversion started.',
+    'conversion_stopped'    => 'Conversion stopped.',
+    'file_not_supported'    => 'File not supported: %s',
+    'conversion_failed'     => 'File conversion failed: %s',
+    'palette_not_supported' => 'Palette-based images do not support WebP format: %s',
+    'total_files'           => 'Total Files',
+    'converted_files'       => 'Converted Files',
+    'converted_size'        => 'Converted Size',
+    'saved_space'           => 'Saved Space',
+    'saved_percentage'      => 'Saved Percentage',
+    'download_logs'         => 'Download Error Logs',
+    'current_file'          => 'Current File',
+    'error_occurred'        => 'An error occurred: %s',
+    'conversion_completed'  => 'All files processed.',
+    'webp_converter_title'  => 'WebP Converter',
+    'start_conversion'      => 'Start Conversion',
+    'stop_conversion'       => 'Stop Conversion',
+];

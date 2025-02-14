@@ -1,0 +1,21 @@
+<?php
+return [
+    'reset_success' => 'İşlem durumu sıfırlandı.',
+    'conversion_started' => 'Dönüştürme işlemi başlatıldı.',
+    'conversion_stopped' => 'Dönüştürme işlemi durduruldu.',
+    'file_not_supported' => 'Dosya desteklenmiyor: %s',
+    'conversion_failed' => 'Dosya dönüştürülemedi: %s',
+    'palette_not_supported' => 'Palet tabanlı resimler WebP formatını desteklemiyor: %s',
+    'total_files' => 'Toplam Dosya Sayısı',
+    'converted_files' => 'Çevrilen Dosya Sayısı',
+    'converted_size' => 'Çevrilen Dosya Boyutu',
+    'saved_space' => 'Kazanılan Yer',
+    'saved_percentage' => 'Kazanç Yüzdesi',
+    'download_logs' => 'Hata Loglarını İndir',
+    'current_file' => 'İşlenen Dosya',
+    'error_occurred' => 'Hata oluştu: %s',
+    'conversion_completed' => 'Tüm dosyalar işlendi.',
+    'webp_converter_title' => 'WebP Dönüştürücü',
+    'start_conversion' => 'Dönüştürmeyi Başlat',
+    'stop_conversion'  => 'Dönüştürmeyi Durdur',
+];
